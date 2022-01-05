@@ -1,23 +1,30 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "firstname": "json-server",
-        "author": "typicode"
-      },
-      {
-        "firstname": "Prasanna",
-        "lastname": "naik",
-        "username": "naikprasanna",
-        "password": "aryaP*0098",
-        "id": 2
-      },
-      {
-        "firstname": "Prasanna",
-        "lastname": "naik",
-        "username": "naikprasanna",
-        "password": "aryaP*0098",
-        "id": 3
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "firstname": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstname": "Prasanna",
+      "lastname": "naik",
+      "username": "naikprasanna",
+      "password": "aryaP*0098",
+      "id": 2
+    },
+    {
+      "firstname": "Prasanna",
+      "lastname": "naik",
+      "username": "naikprasanna",
+      "password": "aryaP*0098",
+      "id": 3
+    },
+    {
+      "firstname": "ravichandra",
+      "lastname": "kumar",
+      "username": "ravi@kumar",
+      "password": "sldfkjsf",
+      "id": 4
+    }
+  ]
+}
